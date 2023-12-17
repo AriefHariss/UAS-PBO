@@ -241,7 +241,7 @@ Folder Onic sudah berhasil ditambahkan ke dalam ke dalam Zip `ke1`
 
 Terlihat file `p1.txt` dan `long,txt` ada dalam folder Onic
 
-## 7. Extract
+## 7. Extract Zip
 
 ![Alt text](<Run Code/18.jpeg>)
 
